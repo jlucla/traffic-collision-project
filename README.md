@@ -1,9 +1,10 @@
-Traffic Collision Analysis
+#Traffic Collision Analysis
+
 Tools: SQL (Sqlite)
 
 I analyzed traffic collision data from Los Angeles (2010 – 2025), focusing on temporal patterns and fatality risk factors.
 
-Key Questions:
+**Key Questions:**
 
 - How have collisions changed over time (i.e. annually)?
 
@@ -13,7 +14,7 @@ Key Questions:
 
 - How do contextual factors (e.g., early morning, holidays) affect fatality risk?
 
-Key Insights:
+**Key Insights:**
 
 - Fatal collisions tend to be concentrated in late evening and early morning hours
 

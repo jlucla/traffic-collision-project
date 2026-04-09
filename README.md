@@ -1,6 +1,6 @@
-#Traffic Collision Analysis
+# Traffic Collision Analysis
 
-Tools: SQL (Sqlite)
+**Tools**: SQL (SQLite)
 
 I analyzed traffic collision data from Los Angeles (2010 – 2025), focusing on temporal patterns and fatality risk factors.
 
